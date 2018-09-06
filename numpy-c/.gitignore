@@ -1,0 +1,6 @@
+__pycache__
+*.so
+*.o
+modsum.py
+modsum_wrap.c
+numpy.i
